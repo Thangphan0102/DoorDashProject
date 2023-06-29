@@ -1,4 +1,4 @@
-# Delivery Duration Prediction
+# Delivery Time Prediction
 
 ## Define the business problem
 
